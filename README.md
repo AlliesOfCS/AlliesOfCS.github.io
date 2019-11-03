@@ -4,10 +4,10 @@ Allies of Computer Science highlights intellectual, racial, and educational dive
 
 Allies of Computer Science is a work in progress project; feel free to follow our social media sites to stay in the loop!
 
-- Facebook Group: https://www.facebook.com/groups/alliesofcomputerscience/
-- Facebook Page: https://www.facebook.com/alliesofcomputerscience/
-- Facebook Messenger Direct Link: m.me/wicsallies
-- Instagram: @wicsallies
+- Facebook Group: `https://www.facebook.com/groups/alliesofcomputerscience/`
+- Facebook Page: `https://www.facebook.com/alliesofcomputerscience/`
+- Facebook Messenger Direct Link: `https://m.me/wicsallies`
+- Instagram: `@wicsallies`
 
 ## Team
 
