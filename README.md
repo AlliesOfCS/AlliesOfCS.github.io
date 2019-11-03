@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to Allies of Computer Science
 
-You can use the [editor on GitHub](https://github.com/AlliesOfCS/AlliesOfCS.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Allies of Computer Science highlights intellectual, racial, and educational diversity in the field of Computer Science and related fields. We are committed to fostering thoughtful conversations, and serve as resource for the broader Penn community.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Allies of Computer Science is a work in progress project; feel free to follow our social media sites to stay in the loop!
 
-### Markdown
+- Facebook Group: https://www.facebook.com/groups/alliesofcomputerscience/
+- Facebook Page: https://www.facebook.com/alliesofcomputerscience/
+- Facebook Messenger Direct Link: m.me/wicsallies
+- Instagram: @wicsallies
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Team
 
-```markdown
-Syntax highlighted code block
+- Jason Chen: `jrchen18@seas.upenn.edu`
+- Lucia Huo: `huo.lucia@gmail.com`
+- Jill Pesce: `jillpesce44@gmail.com`
+- Catherine Qiao: `jqiao22@seas.upenn.edu`
+- Stephanie Tan: `stephaniestang97@gmail.com`
+- Wendy Wu: `wendywu@seas.upenn.edu`
+- Alex Zhao: `alexzhao@seas.upenn.edu`
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Contact Us
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+As always, please feel free to email `wicsallies@gmail.com` with any questions, ideas, or suggestions. We look forward to hearing from you!
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlliesOfCS/AlliesOfCS.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
