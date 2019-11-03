@@ -1,8 +1,3 @@
----
-layout: post
-title: Allies of Computer Science
----
-
 ## Welcome to Allies of Computer Science
 
 Allies of Computer Science highlights intellectual, racial, and educational diversity in the field of Computer Science and related fields. We are committed to fostering thoughtful conversations, and serve as resource for the broader Penn community.
