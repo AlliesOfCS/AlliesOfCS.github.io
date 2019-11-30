@@ -13,7 +13,7 @@ Allies of Computer Science is a work in progress project; feel free to follow ou
 
 - Jason Chen: `jrchen18@seas.upenn.edu`
 - Lucia Huo: `huo.lucia@gmail.com`
-- Yuxin Liao: yuxinl329@gmail.com
+- Yuxin Liao: `yuxinl329@gmail.com`
 - Jill Pesce: `jillpesce44@gmail.com`
 - Catherine Qiao: `jqiao22@seas.upenn.edu`
 - Stephanie Tan: `stephaniestang97@gmail.com`
